@@ -10,7 +10,7 @@ import pickle
 
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/DELL/OneDrive/Desktop/New folder/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Users/DELL/OneDrive/Desktop/diabetes test ml app/trained_model.sav', 'rb'))
 
 #--------------------------------------------------------
 
