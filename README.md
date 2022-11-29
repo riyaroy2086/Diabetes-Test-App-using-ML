@@ -10,4 +10,4 @@
 
 ###### Deployed using StreamLit :-
 
-###### Web App link : 
+###### Web App link : https://diabetes-test-ml-web-app.herokuapp.com/
